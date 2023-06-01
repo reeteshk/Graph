@@ -135,7 +135,7 @@
 <h2>Shortest Path</h2>
 <table>
   <tr>
-    <td > Shortest Path in Directed Acyclic Graph</td>
+    <td > Dijkstra’s Algorithm – Using Priority Queue</td>
     <td> <a href="https://github.com/reeteshkesarwani/Graph/blob/main/Shortest%20Path%20in%20Directed%20Acyclic%20Graph.java"> Shortest Path in Directed Acyclic Graph</a></td>
   </tr>
     <tr>
@@ -157,3 +157,13 @@
 </table>
 
 <h2>Shortest Path Algorithm</h2>
+<table>
+  <tr>
+    <td > Shortest Path in Graph Dijkstra’s Algorithm – Using Priority Queue</td>
+    <td> <a href="https://github.com/reeteshkesarwani/Graph/blob/main/Implementing%20Dijkstra%20Algorithm%20Using%20PriorityQueue.java"> Shortest Path Graph Dijkstra’s Algorithm</a></td>
+  </tr>
+    <tr>
+    <td > Shortest Path in Graph Dijkstra’s Algorithm – Using TreeMap</td>
+    <td> <a href="https://github.com/reeteshkesarwani/Graph/blob/main/Dijkstra's%20Algorithm%20using%20set.java"> Shortest Path with TreeMap</a></td>
+  </tr>
+</table>
