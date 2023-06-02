@@ -166,4 +166,9 @@
     <td > Shortest Path in Graph Dijkstra’s Algorithm – Using TreeMap</td>
     <td> <a href="https://github.com/reeteshkesarwani/Graph/blob/main/Dijkstra's%20Algorithm%20using%20set.java"> Shortest Path with TreeMap</a></td>
   </tr>
+   </tr>
+    <tr>
+    <td > Shortest Path in Weighted undirected graph Dijkstra’s Algorithm</td>
+    <td> <a href="https://github.com/reeteshkesarwani/Graph/blob/main/Shortest%20Path%20in%20Weighted%20undirected%20graph.java"> Shortest Path in Weighted undirected graph Dijkstra’s Algorithm</a></td>
+  </tr>
 </table>
