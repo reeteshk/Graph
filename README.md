@@ -171,4 +171,24 @@
     <td > Shortest Path in Weighted undirected graph Dijkstra’s Algorithm</td>
     <td> <a href="https://github.com/reeteshkesarwani/Graph/blob/main/Shortest%20Path%20in%20Weighted%20undirected%20graph.java"> Shortest Path in Weighted undirected graph Dijkstra’s Algorithm</a></td>
   </tr>
+  <tr>
+    <td > Shortest Distance in a Binary Maze</td>
+    <td> <a href="https://github.com/reeteshkesarwani/Graph/blob/main/Shortest%20Distance%20in%20a%20binary%20Maze.java"> Shortest Distance in a Binary Maze</a></td>
+  </tr>
+  <tr>
+    <td > Path with minimum Effort</td>
+    <td> <a href="https://github.com/reeteshkesarwani/Graph/blob/main/Path%20with%20minimum%20Effort.java"> Path with minimum Effort</a></td>
+  </tr>
+  <tr>
+    <td > Cheapest flights within K stops</td>
+    <td> <a href="https://github.com/reeteshkesarwani/Graph/blob/main/Cheapest%20flights%20within%20K%20stops.java"> Cheapest flights within K stops</a></td>
+  </tr>
+  <tr>
+    <td > Minimum Multiplcation to Reach End</td>
+    <td> <a href="https://github.com/reeteshkesarwani/Graph/blob/main/Minimum%20Multiplcation%20to%20Reach%20End.java"> Minimum Multiplcation to Reach End</a></td>
+  </tr>
+    <tr>
+    <td >Number of ways to arrive destination</td>
+    <td> <a href="https://github.com/reeteshkesarwani/Graph/blob/main/Number%20of%20ways%20to%20arrive%20destination.java"> Number of ways to arrive destination </a></td>
+  </tr>
 </table>
