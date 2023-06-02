@@ -1,4 +1,13 @@
 class Solution {
+    
+    class tuple{
+    int first,second,third;
+    public tuple(int first,int second,int third)
+    {
+        this.first=first;
+        this.second=second;
+        this.third=third;
+    }
 
     int shortestPath(int[][] grid, int[] source, int[] destination) {
 
@@ -49,12 +58,4 @@ class Solution {
     }
     
 }
-class tuple{
-    int first,second,third;
-    public tuple(int first,int second,int third)
-    {
-        this.first=first;
-        this.second=second;
-        this.third=third;
-    }
 }
