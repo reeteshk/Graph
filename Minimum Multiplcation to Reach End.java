@@ -31,18 +31,16 @@ class Solution {
            {
             
                 int num=(arr[i]*node)%mod;
+                    if(num==end)
+                {
+                    return dis+1;
+                }
                 
                 if(dist[num]>dis+1)
                 {
                     dist[num]=dis+1;
-                
-                if(num==end)
-                {
-                    return dis+1;
+                    q.add(new Pair(num,dis+1));
                 }
-                q.add(new Pair(num,dis+1));
-            }
-                
            }
        }
        return -1;
