@@ -191,4 +191,56 @@
     <td >Number of ways to arrive destination</td>
     <td> <a href="https://github.com/reeteshkesarwani/Graph/blob/main/Number%20of%20ways%20to%20arrive%20destination.java"> Number of ways to arrive destination </a></td>
   </tr>
+
 </table>
+
+  <h2>Shortest Path Algorithms</h2>
+  <table>
+  <tr>
+    <td > Dijkstra’s Algorithm – Using Priority Queue</td>
+    <td> <a href="https://github.com/reeteshkesarwani/Graph/blob/main/Shortest%20Path%20in%20Directed%20Acyclic%20Graph.java"> Shortest Path in Directed Acyclic Graph</a></td>
+  </tr>
+    <tr>
+    <td > Shortest path in undirected graph having unit distance</td>
+    <td> <a href="https://github.com/reeteshkesarwani/Graph/blob/main/Shortest%20path%20in%20undirected%20graph%20having%20unit%20distance.java"> Shortest Path with unit distance</a></td>
+  </tr>
+  <tr>
+    <td >Word ladder I</td>
+    <td> <a href="https://github.com/reeteshkesarwani/Graph/blob/main/word%20ladder.java"> Word ladder I </a></td>
+  </tr>
+    <tr>
+    <td >Word ladder II</td>
+    <td> <a href="https://github.com/reeteshkesarwani/Graph/blob/main/word%20ladderII%20.java"> Word ladder II</a></td>
+  </tr>
+  <tr>
+    <td >Word ladder II Optimized</td>
+    <td> <a href="https://github.com/reeteshkesarwani/Graph/blob/main/word%20ladder%20II%20optmz.java"> Word ladder II Optimized</a></td>
+  </tr>
+</table>
+
+<h2>Path Algorithm</h2>
+<table>
+  <tr>
+    <td > Bellman Ford Algorithm</td>
+    <td> <a href="https://github.com/reeteshkesarwani/Graph/blob/main/Distance%20from%20the%20Source%20(Bellman-Ford%20Algorithm).java"> Bellman Ford Algorithm</a></td>
+  </tr>
+    <tr>
+    <td >Floyd Warshall</td>
+    <td> <a href="https://github.com/reeteshkesarwani/Graph/blob/main/Floyd%20Warshall.java">Floyd Warshall Algorithm</a></td>
+  </tr>
+      <tr>
+    <td >Find City with smallest Number of Neighbours at a Threshold Distance</td>
+    <td> <a href="https://github.com/reeteshkesarwani/Graph/blob/main/Find%20the%20City%20with%20the%20smallest%20number%20of%20neighbours%20at%20a%20threshold%20Distance.java">Find City with smallest Number of Neighbours at a Threshold Distance</a></td>
+  </tr>
+
+</table>
+<h2>Minimum Spanning Tree</h2>
+<table>
+  <tr>
+    <td > Minimum Spanning Tree(Prims algorithm)</td>
+    <td> <a href="https://github.com/reeteshkesarwani/Graph/blob/main/Minimum%20Spanning%20Tree(Prims%20algorithm)"> Minimum Spanning Tree(Prims algorithm)</a></td>
+  </tr>
+
+</table>
+
+
