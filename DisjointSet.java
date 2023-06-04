@@ -1,5 +1,4 @@
 import java.util.*;
-import java.util.ArrayList;
 
 class DisjointSet{
     List<Integer>rank;
@@ -9,7 +8,7 @@ class DisjointSet{
         rank=new ArrayList<>();
         parent=new ArrayList<>();
         size=new ArrayList<>();
-        for(int i=0;i<n;i++){
+        for(int i=0;i<=n;i++){
             rank.add(0);
             parent.add(i);
             size.add(1);
@@ -20,7 +19,8 @@ class DisjointSet{
     {
         if(node==parent.get(node))
             return node;
-        return parent.set(node,findUPar(parent.get(node)));
+         parent.set(node,findUPar(parent.get(node)));
+         return parent.get(node);
     }
     public void unionByRank(int u,int v)
     {
@@ -31,16 +31,13 @@ class DisjointSet{
         if(rank.get(uPar)>rank.get(vPar))
         {
             parent.set(vPar,uPar);
-            size.set(uPar,size.get(uPar)+size.get(vPar));
         }
         else if(rank.get(uPar)<rank.get(vPar))
         {
             parent.set(uPar,vPar);
-            size.set(vPar,size.get(vPar)+size.get(uPar));
         }
         else{
             parent.set(vPar,uPar);
-            size.set(uPar,size.get(uPar)+size.get(vPar));
             rank.set(uPar,rank.get(uPar)+1);
         }
     }
