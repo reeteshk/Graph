@@ -4,7 +4,7 @@ import java.util.ArrayList;
 class DisjointSet{
     List<Integer>rank;
     List<Integer>parent;
-    List<Integer>size>;
+    List<Integer>size;
     public DisjointSet(int n){
         rank=new ArrayList<>();
         parent=new ArrayList<>();
