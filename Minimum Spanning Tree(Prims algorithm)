@@ -1,0 +1,46 @@
+class Solution{
+	static int spanningTree(int V, int E, int edges[][]){
+	    ArrayList<ArrayList<int[]>> adj = new ArrayList<>();
+        for (int i = 0; i < V; i++) 
+            adj.add(new ArrayList<>());
+        
+        for (int[] edge : edges) {
+            int u = edge[0];
+            int v = edge[1];
+            int w = edge[2];
+
+            adj.get(u).add(new int[]{v, w}); //connecting both sides
+            adj.get(v).add(new int[]{u, w});
+        }
+	    PriorityQueue<int[]> pq = new PriorityQueue<>((a, b) -> a[0] - b[0]);
+        boolean[] visited = new boolean[V];
+        int[][] min_span_tree = new int[V][3]; //NOT NEEDED, has MST
+        int index = 0;
+        int sum = 0;
+        pq.offer(new int[]{0, 0, 0}); //(wt,src,dst)first ele, weight is taken as priority
+
+        while (!pq.isEmpty()) {
+            int[] curr = pq.poll();
+            int wt = curr[0];
+            int src = curr[1];
+            int dstnode = curr[2];
+
+            if (visited[dstnode]) continue;
+
+            visited[dstnode] = true;
+            sum += wt;
+            if (src != dstnode)
+                min_span_tree[index++] = new int[]{src, dstnode, wt};
+
+            for (int[] edge : adj.get(dstnode)) {
+                int adjNode = edge[0];
+                int edW = edge[1];
+                if (!visited[adjNode])
+                    pq.offer(new int[]{edW, dstnode, adjNode}); //#wt,src,dst
+            }
+        }
+        ///print(min_span_tree[1:]) #[[0, 2, 1], [2, 1, 3]] src->dst, wt
+	    return sum;
+	    
+	}
+}
