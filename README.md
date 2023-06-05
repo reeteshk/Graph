@@ -245,10 +245,17 @@
     <td> <a href="https://github.com/reeteshkesarwani/Graph/blob/main/DisjointSet.java">Disjoint Set</a></td>
   </tr>
   <tr>
-    <td >Disjoint Set</td>
-    <td> <a href="https://github.com/reeteshkesarwani/Graph/blob/main/DisjointSet.java">Disjoint Set</a></td>
+    <td >Minimum Spanning Tree (Kruskals Algorithm)</td>
+    <td> <a href="https://github.com/reeteshkesarwani/Graph/blob/main/Minimum%20Spanning%20Tree%20(Kruskals%20Algorithm).java">Minimum Spanning Tree (Kruskals Algorithm)</a></td>
   </tr>
-
+<tr>
+    <td >Number of Provinces- Disjointset</td>
+    <td> <a href="https://github.com/reeteshkesarwani/Graph/blob/main/Number%20of%20Provinces-%20Disjointset.java">Number of Provinces- Disjointset</a></td>
+  </tr>
+  <tr>
+    <td >Minimum Number of Operation to make network connected</td>
+    <td> <a href="https://github.com/reeteshkesarwani/Graph/blob/main/Minimum%20Number%20of%20Operation%20to%20make%20network%20connected.java">Minimum Number of Operation to make network connected</a></td>
+  </tr>
 
 </table>
 
