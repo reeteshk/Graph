@@ -240,6 +240,15 @@
     <td > Minimum Spanning Tree(Prims algorithm)</td>
     <td> <a href="https://github.com/reeteshkesarwani/Graph/blob/main/Minimum%20Spanning%20Tree(Prims%20algorithm)"> Minimum Spanning Tree(Prims algorithm)</a></td>
   </tr>
+    <tr>
+    <td >Disjoint Set</td>
+    <td> <a href="https://github.com/reeteshkesarwani/Graph/blob/main/DisjointSet.java">Disjoint Set</a></td>
+  </tr>
+  <tr>
+    <td >Disjoint Set</td>
+    <td> <a href="https://github.com/reeteshkesarwani/Graph/blob/main/DisjointSet.java">Disjoint Set</a></td>
+  </tr>
+
 
 </table>
 
