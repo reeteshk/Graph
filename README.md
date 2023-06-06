@@ -256,7 +256,10 @@
     <td >Minimum Number of Operation to make network connected</td>
     <td> <a href="https://github.com/reeteshkesarwani/Graph/blob/main/Number%20of%20Provinces-%20Disjointset.java">Minimum Number of Operation to make network connected</a></td>
   </tr>
-
+<tr>
+    <td >Account Merge</td>
+    <td> <a href="https://github.com/reeteshkesarwani/Graph/blob/main/Account%20Merge.java">Account Merge</a></td>
+  </tr>
 </table>
 
 
