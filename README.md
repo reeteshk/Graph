@@ -254,7 +254,7 @@
   </tr>
   <tr>
     <td >Minimum Number of Operation to make network connected</td>
-    <td> <a href="https://github.com/reeteshkesarwani/Graph/blob/main/Minimum%20Number%20of%20Operation%20to%20make%20network%20connected.java">Minimum Number of Operation to make network connected</a></td>
+    <td> <a href="https://github.com/reeteshkesarwani/Graph/blob/main/Number%20of%20Provinces-%20Disjointset.java">Minimum Number of Operation to make network connected</a></td>
   </tr>
 
 </table>
